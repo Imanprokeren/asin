@@ -1229,7 +1229,7 @@ break
 																}
 																}
 																]
-										await alpha.send5ButLoc(from, `Hai kak ${pushname} 👋, saya *${botname}* ` + '\n\n' + lang.listMenu(time, salam, pushname, prefix) , `© ${ownername}`,pp_bot, but )
+										await alpha.send5ButLoc(from, `Hai kak ${pushname} 👋, saya *ImanBot* ` + '\n\n' + lang.listMenu(time, salam, pushname, prefix) , `© ${ownername}`,pp_bot, but )
 									}
 								break   
 								case 'infocmd': case'infomenu':{
