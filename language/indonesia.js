@@ -86,16 +86,14 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya Alphabot-Md, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+	return`Hai ${pushname} 👋 Selamat ${salam} , 
+Saya ImanBot, Jika Ada bug akan Segera Kami Perbaiki 🙏      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 ListAll-Menu ImanBot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1204,14 +1202,9 @@ return`╭─❒ 「 Others 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
+├ Kedua Orang Tua
+├ ImanOffc
+├ ImanBot
 ├ Penyedia Module
 ╰❒ And All Support
 `
