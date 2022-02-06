@@ -1,0 +1,1 @@
+Kecepatan Respon ${latensi.toFixed(4)} _Detik_ \n ${oldd - neww} _milidetik_\n\nRuntime : ${runtime(process.uptime())}Kecepatan Respon ${latensi.toFixed(4)} _Detik_ \n ${oldd - neww} _milidetik_\n\nRuntime : ${runtime(process.uptime())}
