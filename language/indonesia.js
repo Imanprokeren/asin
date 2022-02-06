@@ -93,8 +93,7 @@ Saya ImanBot, Jika Ada bug akan Segera Kami Perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*⌚Runtime : ${runtime}*
-*🏵️Subscribe : ManzBotEdtz
+*🏵️Subscribe : ManzBotEdtz*
 *📚 ListAll-Menu ImanBot :*
 
 ╭─❒ 「 Bot Info ©ImanBot 」 
