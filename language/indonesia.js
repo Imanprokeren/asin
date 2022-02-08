@@ -92,9 +92,11 @@ Saya ImanBot, Jika Ada bug akan Segera Kami Perbaiki 🙏
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
+
 *⌚Time Server : ${time}*
-*🏵️Subscribe : ManzBotEdtz*
+*🏵️ Subscribe : ManzBotEdtz*
 *📚 ListAll-Menu ImanBot :*
+*💅 Bot Dibuat Oleh ©Iman*
 
 ╭─❒ 「 Bot Info ©ImanBot 」 
 ├ ${prefix}owner
@@ -106,7 +108,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}donate
 
 
-╭─❒ 「 Owner 」 
+╭─❒ 「 Owner ©ImanOffc 」 
 ├ < evaluate
 ├ > evaluate
 ├ $ exec
@@ -129,7 +131,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}setppbot [reply image]
 
 
-╭─❒ 「 Database 」 
+╭─❒ 「 Database ©ImanBot 」 
 ├ ${prefix}setcmd [reply stiker]
 ├ ${prefix}delcmd [reply stiker]
 ├ ${prefix}listcmd
