@@ -531,7 +531,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 				var but = [
 				{
 					"urlButton": {
-						"displayText": "Media Url",
+						"displayText": "Media Url ©ImanBot",
 						"url": `${result}`
 						}
 					}
@@ -551,7 +551,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 				var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Website ©ImanBot",
 						"url": `${myweb}`
 						}
 					}
@@ -572,7 +572,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
 				var but = [
 				{
 					"urlButton": {
-						"displayText": "Website",
+						"displayText": "Website ©ImanBot",
 						"url": `${myweb}`
 						}
 					}
@@ -1128,31 +1128,31 @@ break
 						var but = [
 						{
 							"urlButton": {
-								"displayText": "YouTube Creator",
+								"displayText": "YouTube Creator ©ImanBot",
 								"url": `${youtube}`
 								}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Rest Api's ©ImanBot",
 										"url": `${myweb}`
 										}
 										},
 										{
 											"quickReplyButton": {
-												"displayText": "Donasi",
+												"displayText": "Donasi ©ImanBot",
 												"id": 'donate'
 												}
 												},
 												{
 													"quickReplyButton": {
-														"displayText": "Owner",
+														"displayText": "Owner ©ImanOffc",
 														"id": 'owner'
 														}
 														},
 														{
 															"quickReplyButton": {
-																"displayText": "List Command",
+																"displayText": "List Command Bot",
 																"id": 'command'
 																}
 																}
@@ -1200,25 +1200,25 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "YouTube Creator ©ImanBot",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Rest Api's ©ImanBot",
 										"url": `${myweb}`
 										}
 										},
 										{
 											"quickReplyButton": {
-												"displayText": "Donasi",
-												"id": 'donate'
+												"displayText": "©ImanBot",
+												"id": 'owner'
 												}
 												},
 												{
 													"quickReplyButton": {
-														"displayText": "Owner",
+														"displayText": "Owner ©ImanOffc",
 														"id": 'owner'
 														}
 														},
@@ -1237,25 +1237,25 @@ break
 							var but = [
 							{
 								"urlButton": {
-									"displayText": "YouTube Creator",
+									"displayText": "YouTube Creator ©ImanBot",
 									"url": `${youtube}`
 									}
 								},
 								{
 									"urlButton": {
-										"displayText": "Rest Api's",
+										"displayText": "Rest Api's ©ImanBot",
 										"url": `${myweb}`
 										}
 										},
 										{
 											"quickReplyButton": {
-												"displayText": "Donasi",
+												"displayText": "Donasi ©ImanBot",
 												"id": 'donate'
 												}
 												},
 												{
 													"quickReplyButton": {
-														"displayText": "Owner",
+														"displayText": "Owner ©ImanBot",
 														"id": 'owner'
 														}
 														},
