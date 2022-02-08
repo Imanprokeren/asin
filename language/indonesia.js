@@ -91,12 +91,11 @@ Saya ImanBot, Jika Ada bug akan Segera Kami Perbaiki 🙏
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
-    return `*Selamat ${salam} ${pushname}*
+    return `🗿*Selamat ${salam} ${pushname}*
 
 *⌚Time Server : ${time}*
 *🏵️ Subscribe : ManzBotEdtz*
 *📚 ListAll-Menu ImanBot :*
-*🗿(`Runtime : ${runtime(process.uptime())}`)*
 *💅 Bot Dibuat Oleh ©Iman*
 
 ╭─❒ 「 Bot Info ©ImanBot 」 
