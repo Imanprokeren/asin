@@ -96,6 +96,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 *⌚Time Server : ${time}*
 *🏵️ Subscribe : ManzBotEdtz*
 *📚 ListAll-Menu ImanBot :*
+*🗿(`Runtime : ${runtime(process.uptime())}`)*
 *💅 Bot Dibuat Oleh ©Iman*
 
 ╭─❒ 「 Bot Info ©ImanBot 」 
